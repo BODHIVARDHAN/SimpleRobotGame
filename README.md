@@ -7,7 +7,7 @@ DESCRIPTION:
 
 This was a mini assignment given to us for the course, CS-404: Software engineering -1 during the academic year 2016-2017, with the aim to understand the 'html', 'css' and javascript in a software.
 
-<img src="screenshots/screenshot.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot.png" height="400" alt="Screenshot"/>
 
 Screenshot
 BUILDING AND USING ROBOT:
